@@ -1,0 +1,8 @@
+# clangd
+.cache/*
+
+# third party
+third_party/*
+
+# build 
+build/*
